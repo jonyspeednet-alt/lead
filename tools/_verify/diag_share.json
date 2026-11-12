@@ -1,0 +1,266 @@
+{
+  "url": "https://drive.google.com/drive/my-drive",
+  "iframes": [
+    "https://drive.google.com/drive/my-drive",
+    "about:blank",
+    "about:blank",
+    "https://drive.google.com/_/og/bscframe",
+    "https://studio.workspace.google.com/u/0/sidepanel/workflows?origin=https%3A%2F%2Fdrive.google.com&hai=8&hc=4%2C1%2C5%2C8%2C9&hl=en&forcehl=1&usegapi=1&id=I0_1794465134868&_gfid=I0_1794465134868&parent=https%3A%2F%2Fdrive.google.com&pfname=&rpctoken=85813678&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.smUXTMp7CeY.O%2Fd%3D1%2Frs%3DAHpOoo_-UMASGI-dbLvJPxfO6N46l3l46A%2Fm%3D__features__",
+    "https://accounts.google.com/RotateCookiesPage?og_pid=49&rot=3&origin=https%3A%2F%2Fdrive.google.com&exp_id=0",
+    "https://drive.google.com/viewer/main?origin=https://drive.google.com&source=10",
+    "https://docs.google.com/offline/iframeapi?ouid=u637a1bb0e75ad69d&sa=9&pli=1&authuser=0#cd=2",
+    "https://ogs.google.com/u/0/widget/app?awwd=1&gpa=4&em=2&scv=1&dpi=72175901&origin=https%3A%2F%2Fdrive.google.com&cn=app&pid=49&spid=49&hl=en&xstg=CAMSFRUUmrS-NbK-BOSJBacGh_othO_eAQ%3D%3D",
+    "https://contacts.google.com/widget/hovercard/v/2?origin=https%3A%2F%2Fdrive.google.com&usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.smUXTMp7CeY.O%2Fd%3D1%2Frs%3DAHpOoo_-UMASGI-dbLvJPxfO6N46l3l46A%2Fm%3D__features__#id=I__HC_94253229&_gfid=I__HC_94253229&parent=https%3A%2F%2Fdrive.google.com&pfname=&rpctoken=75718697",
+    "about:blank",
+    "https://drive.google.com/drivesharing/driveshare?id=1vsTzCjC5mBWi1meMlM8IHa32c9-1pnr7&themeColor=2&themeMode=1&foreignService=explorer&gaiaService=wise&shareService=explorer&command=init_share&subapp=10&popupWindowsEnabled=true&shareUiType=default&hl=en&authuser=0&rand=1794465152420&locationHint=myDriveItem&preload=false&triggerInstantMs=1794465152420&initialCommandHint=settings&origin=https%3A%2F%2Fdrive.google.com&notpif=true&hostCanCseUpgradeBlobs=true",
+    "https://contacts.google.com/widget/hovercard/v/2?origin=https%3A%2F%2Fdrive.google.com&usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.smUXTMp7CeY.O%2Fd%3D1%2Frs%3DAHpOoo_-UMASGI-dbLvJPxfO6N46l3l46A%2Fm%3D__features__#id=I__HC_94253229&_gfid=I__HC_94253229&parent=https%3A%2F%2Fdrive.google.com&pfname=&rpctoken=40388242",
+    "https://drive.google.com/drivesharing/_/bscframe"
+  ],
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": "Support",
+      "text": "help_outline",
+      "title": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": "Settings",
+      "text": "settings",
+      "title": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": null,
+      "text": "Got it",
+      "title": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": "Owner.",
+      "text": "Owner",
+      "title": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": "Restricted change general access",
+      "text": "Restricted",
+      "title": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": null,
+      "text": "Copy link",
+      "title": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": null,
+      "text": "Cancel",
+      "title": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": null,
+      "text": "Send",
+      "title": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": null,
+      "text": "Done",
+      "title": null
+    },
+    {
+      "tag": "INPUT",
+      "role": "combobox",
+      "aria": "Add people, groups, spaces, and calendar events",
+      "text": "",
+      "title": null
+    },
+    {
+      "tag": "UL",
+      "role": "listbox",
+      "aria": "Menu for selecting suggested share recipients",
+      "text": "",
+      "title": null
+    },
+    {
+      "tag": "DIV",
+      "role": "listbox",
+      "aria": "Suggested people and groups to share with",
+      "text": "",
+      "title": null
+    },
+    {
+      "tag": "DIV",
+      "role": "progressbar",
+      "aria": "Updating",
+      "text": "",
+      "title": null
+    },
+    {
+      "tag": "H2",
+      "role": null,
+      "aria": "Share \"ZZZ Share Probe Test\"",
+      "text": "Share \"ZZZ Share Probe Test\"",
+      "title": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": "Support",
+      "text": "help_outline",
+      "title": null
+    },
+    {
+      "tag": "UL",
+      "role": "menu",
+      "aria": "Support options",
+      "text": "HelpSend feedback to Google",
+      "title": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": "Settings",
+      "text": "settings",
+      "title": null
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "aria": "Allow editors to change permissions and share",
+      "text": "",
+      "title": null
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "aria": "Limit access to \"ZZZ Share Probe Test\"",
+      "text": "",
+      "title": null
+    },
+    {
+      "tag": "INPUT",
+      "role": "combobox",
+      "aria": "Add people, groups, spaces, and calendar events",
+      "text": "",
+      "title": null
+    },
+    {
+      "tag": "UL",
+      "role": "listbox",
+      "aria": "Menu for selecting suggested share recipients",
+      "text": "",
+      "title": null
+    },
+    {
+      "tag": "DIV",
+      "role": "listbox",
+      "aria": "Suggested people and groups to share with",
+      "text": "",
+      "title": null
+    },
+    {
+      "tag": "UL",
+      "role": "menu",
+      "aria": "List of people this item is shared with. There is 1 person or group in the list.",
+      "text": "Jakyle Yeargain (you)\nyearj6940@ttdistrict205.net\nOwner",
+      "title": null
+    },
+    {
+      "tag": "DIV",
+      "role": "img",
+      "aria": "Jakyle Yeargain (you)",
+      "text": "",
+      "title": null
+    },
+    {
+      "tag": "DIV",
+      "role": null,
+      "aria": "Jakyle Yeargain (you).",
+      "text": "Jakyle Yeargain (you)",
+      "title": null
+    },
+    {
+      "tag": "DIV",
+      "role": null,
+      "aria": "yearj6940@ttdistrict205.net. ",
+      "text": "yearj6940@ttdistrict205.net",
+      "title": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": "Owner.",
+      "text": "Owner",
+      "title": null
+    },
+    {
+      "tag": "UL",
+      "role": "menu",
+      "aria": "Menu for selecting permission roles",
+      "text": "",
+      "title": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": "Restricted change general access",
+      "text": "Restricted",
+      "title": null
+    },
+    {
+      "tag": "UL",
+      "role": "menu",
+      "aria": "Change link type",
+      "text": "",
+      "title": null
+    },
+    {
+      "tag": "IFRAME",
+      "role": null,
+      "aria": "Information Card",
+      "text": "",
+      "title": null
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "aria": "Allow editors to change permissions and share",
+      "text": "",
+      "title": null
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "aria": "Limit access to \"ZZZ Share Probe Test\"",
+      "text": "",
+      "title": null
+    },
+    {
+      "tag": "INPUT",
+      "role": "combobox",
+      "aria": "Add people, groups, spaces, and calendar events",
+      "text": "",
+      "title": null
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "aria": null,
+      "text": "",
+      "title": null
+    }
+  ]
+}

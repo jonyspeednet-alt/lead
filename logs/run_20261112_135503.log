@@ -1,0 +1,24 @@
+2026-11-12 13:55:03 --- folder 1/1: Folder 1 (50 e-mail(s)) ---
+2026-11-12 13:55:03 creating folder Folder 1
+2026-11-12 13:55:12 Captured new folder data-id via aria-selected: 1v829ZtfZyjtlsjYBvCsPEWRXQ5Zj6SvN
+2026-11-12 13:55:12 created folder: Folder 1 (ID: 1v829ZtfZyjtlsjYBvCsPEWRXQ5Zj6SvN)
+2026-11-12 13:55:12 Navigating to folder direct URL: https://drive.google.com/drive/folders/1v829ZtfZyjtlsjYBvCsPEWRXQ5Zj6SvN
+2026-11-12 13:55:16 Inside targeted folder. URL: https://drive.google.com/drive/folders/1v829ZtfZyjtlsjYBvCsPEWRXQ5Zj6SvN
+2026-11-12 13:55:16 Uploading C:/Users/SN-IT/Downloads/eBariwala Home and Community Logo.png inside folder: https://drive.google.com/drive/folders/1v829ZtfZyjtlsjYBvCsPEWRXQ5Zj6SvN
+2026-11-12 13:55:18 File upload triggered via '+ New > File upload'
+2026-11-12 13:55:25 Opening context menu to launch Share dialog for Folder 1
+2026-11-12 13:55:34 Clicked Share action in context menu
+2026-11-12 13:55:42 general access: switched to Anyone with the link
+2026-11-12 13:55:43 general access - Google blocked the action: share dialog: Permission denied
+2026-11-12 13:55:43 Adding 50 email(s) to 'Folder 1'
+2026-11-12 13:57:01 Clicked Send for 'Folder 1' (50 recipient(s), Viewer)
+2026-11-12 13:57:59 share - Google blocked the action: share dialog: Unable to share
+2026-11-12 13:57:59 'Folder 1' share failed: share dialog: Unable to share
+2026-11-12 13:58:09 Google blocked sharing - the remaining folders will only be created.
+2026-11-12 13:58:09 Done - 0 e-mail(s) shared across 1 folder(s), 963 remaining (see report)
+2026-11-12 13:58:09 Run finished: 2026-11-12 13:55:03
+2026-11-12 13:58:09 Source file: 1 k data.txt
+2026-11-12 13:58:09 Folders created: 1 of 1
+2026-11-12 13:58:09 Emails in file: 1104 (invalid skipped: 0)
+2026-11-12 13:58:09 Emails shared: 0  |  Remaining: 963
+2026-11-12 13:58:11 Automation finished. Waiting for the user to close Chrome...
